@@ -143,3 +143,6 @@ launch.json
 
 # Webstorm
 .idea 
+
+
+src/components/PasswordInput/__snapshots__/
