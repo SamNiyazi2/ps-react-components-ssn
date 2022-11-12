@@ -1,3 +1,17 @@
+
+
+# ps-react-components-ssn 
+
+(218)
+
+Practicing [Plurasight course: Creating Reusable React Components](https://app.pluralsight.com/library/courses/react-creating-reusable-components/table-of-contents) 
+
+Pluralsight Author: [Cory House](https://www.pluralsight.com/authors/cory-house) 
+ 
+ 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
