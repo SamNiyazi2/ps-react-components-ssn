@@ -142,7 +142,7 @@
     ]
   },
   "devDependencies": {
-    "chokidar": "^1.6.1",
+    "chokidar": "^3.5.3",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16.3": "^1.7.2",
     "npm-run-all": "^4.0.2",
